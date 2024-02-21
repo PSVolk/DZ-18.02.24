@@ -1,0 +1,96 @@
+.header {
+    background-color: #8B008B;
+    height: 60px;
+}
+
+.header_text {
+    position:fixed sticky;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    margin: center;
+
+}
+
+.menu {
+    background-color: #E9967A;
+    height: 45px;
+    margin-top: 20px;
+}
+
+.menu_text {
+    position: fixed sticky;
+    padding: 7px 30px;
+    color: white;
+}
+
+.aside_1 {
+    background-color: #DB7093;
+    margin-top: 20px;
+    width: 450px;
+    height: 150px;
+
+}
+
+.aside_2 {
+    background-color: #DB7093;
+    margin-top: 10px;
+    width: 450px;
+    height: 250px;
+}
+
+.main_content {
+    background-color: #DB7093;
+    margin-top: 20px;
+    width: 880px;
+    height: 600px;
+    float: right;
+    margin-right: 1px;
+}
+
+.aside_3 {
+    background-color: #DB7093;
+    width: 140px;
+    height: 410px;
+    margin-top: 20px;
+     writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+
+.section_1 {
+    background-color: #FFC0CB;
+    width: 730px;
+    height: 210px;
+    margin: 100px 40px 10px 90px;
+}
+
+.section_2 {
+    background-color: #FFC0CB;
+    width: 730px;
+    height: 210px;
+    margin: 20px 90px;
+}
+
+.none {
+    width: 200px;
+    height: 190px
+}
+
+.none2 {
+    width: 70px;
+    height: 190px
+}
+
+.footer {
+    background-color: #E9967A;
+    height: 45px;
+    margin-top: 20px
+}
+
+.aside_text {
+    float: left;
+    padding: 20px 30px;
+    color: white;
+}
+table {
+    width: 100%;
+}
